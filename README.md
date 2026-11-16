@@ -14,7 +14,7 @@ I'm a data analyst based in Berlin. I recently completed an MSc in Data Analytic
 | [Explainable essay scoring with BERT and SHAP](https://github.com/riddhiaggarwal1/nlp-essay-scoring-bert-shap) | MSc dissertation: NLP and model explainability |
 | [Tableau sales and HR dashboards](https://github.com/riddhiaggarwal1/tableau-sales-hr-dashboards) | Dashboard design and KPI reporting |
 | [Telecom database in MySQL](https://github.com/riddhiaggarwal1/telecom-database-mysql) | Database design, ERD, analytical queries |
-| [Big data pipeline with PySpark](https://github.com/riddhiaggarwal1/big-data-pyspark-pipeline) | Spark SQL, Hive, MLlib |
+| [Big data pipeline with PySpark](https://github.com/riddhiaggarwal1/big-data-pyspark-pipeline) | Spark SQL, MLlib, Random Forest |
 | [Tomato leaf disease classifier](https://github.com/riddhiaggarwal1/tomato-plant-disease-cnn) | Image classification with a CNN in Keras |
 
 
