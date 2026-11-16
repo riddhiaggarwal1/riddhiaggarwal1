@@ -11,6 +11,7 @@ I'm a data analyst based in Berlin with an MSc in Data Analytics and several yea
 | Project | What I did | Result |
 |---------|------------|--------|
 | [Credit risk analysis](https://github.com/riddhiaggarwal1/credit-risk-german-credit) | Logistic regression scorecard on 1,000 real German loans, with a cost-based approval cut-off | AUC 0.80; cost of wrong decisions cut by 64 % against approving everyone |
+| [Early warning for student drop-out](https://github.com/riddhiaggarwal1/learning-analytics-early-warning) | Cleaned and analysed 32,000 Open University enrolments, including a 10.6-million-row click log | Early behaviour predicts drop-out better than background (AUC 0.70 vs 0.63) |
 | [Retail sales analysis with SQL](https://github.com/riddhiaggarwal1/retail-sales-sql-analysis) | Six business questions answered with window functions, cohort retention and RFM segmentation | Synthetic data, built to show the method |
 | [Tableau sales and HR dashboards](https://github.com/riddhiaggarwal1/tableau-sales-hr-dashboards) | Two interactive dashboards with custom calculated fields | Sales representatives leave at about 40 %, the highest of any role |
 | [Explainable essay scoring](https://github.com/riddhiaggarwal1/nlp-essay-scoring-bert-shap) | MSc dissertation: scoring student essays with BERT and explaining the scores with SHAP | Prototype pipeline, plus teacher survey on trust in AI scoring |
